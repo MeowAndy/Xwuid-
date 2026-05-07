@@ -1,6 +1,6 @@
 # 伐竹猫的 XWUID 面板 / 背景图图库 🎨
 
-这里是给 **XutheringWavesUID / XWUID** 使用的鸣潮面板图、背景图与声骸图素材备份仓库。
+这里是给 **XutheringWavesUID / XWUID** 使用的鸣潮面板图与背景图素材备份仓库。
 
 > 本仓库由 **伐竹猫Andy** 整理并无偿分享，方便大家快速恢复或同步图库。
 
