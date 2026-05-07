@@ -10,7 +10,6 @@
 | --- | --- | --- |
 | `custom_role_pile/` | `data/XutheringWavesUID/custom_role_pile/` | 角色面板图 |
 | `custom_mr_bg/` | `data/XutheringWavesUID/custom_mr_bg/` | 面板背景图 |
-| `custom_orb/` | `data/XutheringWavesUID/custom_orb/` | 声骸/卡片等自定义图 |
 
 目录名已经和 XWUID 实际数据目录保持一致，`git clone` 后可以按需直接复制到对应位置。
 
@@ -25,7 +24,6 @@ git clone https://github.com/MeowAndy/Fzm-Xwuid-BJ-MB-Pic.git
 ```bash
 cp -r Fzm-Xwuid-BJ-MB-Pic/custom_role_pile /root/gs/gsuid_core/data/XutheringWavesUID/
 cp -r Fzm-Xwuid-BJ-MB-Pic/custom_mr_bg /root/gs/gsuid_core/data/XutheringWavesUID/
-cp -r Fzm-Xwuid-BJ-MB-Pic/custom_orb /root/gs/gsuid_core/data/XutheringWavesUID/
 ```
 
 如果你已有同名目录，建议先备份原目录，避免覆盖自己的素材。
